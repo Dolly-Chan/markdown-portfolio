@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I majored in *English*. 🎉 But now I am learning a new language called *Python*, which is totally different with **any** language I learned before.
